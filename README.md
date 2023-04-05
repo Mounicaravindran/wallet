@@ -107,9 +107,17 @@ Navigate to 127.0.0.1:8000
 In this project we have the following URLs
 
 127.0.0.1:8000/wallet/create
+
+
 127.0.0.1:8000/wallet/activate
+
+
 127.0.0.1:8000/wallet/add-money
+
+
 127.0.0.1:8000/wallet/withdraw-money
+
+
 127.0.0.1:8000/wallet/transaction
 
 
